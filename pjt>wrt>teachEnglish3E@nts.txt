@@ -1,3 +1,7 @@
+- structure : {    
+1 : Explain idea of method.    2 : Provide ready-made questions.    3 : Explain sources of material that can be adapted or used directly.    4 : Explain how to create own material.
+}
+
 Why 3E?
 Why teach English the 3E way--easily, effectively, and entertainingly? I presume there's no need to expound on why it's desirable to teach English in a way that's easy for you. And if you have a basic sense of conscientiousness, then it's plain why being effective is also desirable. But why entertainingly?
 
@@ -49,7 +53,9 @@ Who bets best
 
 
 Basic discussion
-A discussion activity is straightforward in principle, but can sometimes be difficult to pull off successfully in practice. Here are some tips to ensure a lively discussion that engages your students. First, make sure to choose a topic that is of interest to them. Many inexperienced teachers will wind up just choosing discussion fodder that is interesting to themselves without considering whether it will be interested to the students as well. To get some ideas of what's interesting to your students, ask some locals or if you can read the local language check out popular local websites to see what kinds of things local people are interested in. Of course, there are also many topics that are nearly universal interest, such as relationships, food, and so forth. At least before you've confirmed your students are in fact interested, avoid narrow topics that might reflect culturally-bound or individual interests.
+A discussion activity is straightforward in principle, but can sometimes be difficult to pull off successfully in practice. Here are some tips to ensure a lively discussion that engages your students. First, make sure to choose a topic that is of interest to them. Many inexperienced teachers will wind up just choosing discussion fodder that is interesting to themselves without considering whether it will be interesting to the students as well. To get some ideas of what's interesting to your students, ask some locals or if you can read the local language check out popular local websites to see what kinds of things local people are interested in. Of course, there are also many topics that are nearly universal interest, such as relationships, food, and so forth. At least before you've confirmed your students are in fact interested, avoid narrow topics that might reflect culturally-bound or individual interests.
+A local newspaper or news website can be a rich source of content. I suggest looking though at less time-sensitive content. The reason? Time-sensitive will only remain "fresh" for a short time so you won't be able to use it for a long time. News items about culture.
+Another tip, while you want to avoid offensive topics or topics that might give rise to angry conflict, it's often productive to choose topics that produce differing opinions, as this is a stimulus to lively discussion. If everyone is already in agreement, there's personal perspective to describe, less persuading to be done, etc.
 Second, it's good to have some interesting content as a starting point for discussion. This could be an article, interview, etc. to which your discussion questions have been added.
 
 Who bets best
